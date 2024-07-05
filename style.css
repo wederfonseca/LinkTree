@@ -86,6 +86,7 @@ body * {
 }
 
 #switch button:hover {
+    cursor: pointer;
     outline: 8px solid var(--highlight-color);
 }
 
